@@ -1,1 +1,1 @@
-[Alt-H1 spacex](https://talashov.github.io/spacex/)
+[SPACEX](https://talashov.github.io/spacex/)
