@@ -26,9 +26,11 @@ button {
 .container {
   max-width: 1230px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 15px;
 }
 
+/* Header
+================ */
 .header {
   margin-bottom: 492px;
 }
@@ -93,7 +95,7 @@ button {
   height: 0px;
   margin: 0 auto;
   margin-top: 75px;
-  border: 1px solid #ffffff;
+  border: 1px solid #fff;
   transform: rotate(90deg);
 }
 .image__back {
@@ -140,10 +142,13 @@ button {
   height: 1718px;
   left: 50%;
   top: 1307px;
-  background: url(../images/falcon.png);
+  background: url("../images/falcon.webp");
   background-repeat: no-repeat;
   margin-bottom: 198px;
 }
+
+/* Footer
+================ */
 .footer {
   display: flex;
   text-align: center;
@@ -191,7 +196,8 @@ button {
   color: #010001;
   cursor: pointer;
 }
-
+/* Media
+================ */
 @media (max-width: 1050px) {
   .header {
     margin-bottom: 100px;
